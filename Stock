@@ -1,0 +1,27 @@
+package NaveenASStockMaintenance;
+
+import java.util.Vector;
+import bool;
+import String;
+import int;
+
+public class Stock {
+
+  public String Stockname;
+
+  public int Price;
+
+  public bool availability;
+
+    public Vector  myStock Market;
+
+  public void Update() {
+  }
+
+  public void Delete() {
+  }
+
+  public void AddStock() {
+  }
+
+}
