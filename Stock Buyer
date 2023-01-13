@@ -1,0 +1,21 @@
+package NaveenASStockMaintenance;
+
+import java.util.Vector;
+import String;
+
+public class Stock Buyer {
+
+  public String Buyerdetail;
+
+  public String StockDetail;
+
+    public Vector  myBank;
+    public Vector  myStock Market;
+
+  public void BuyStock() {
+  }
+
+  public void Selectstock() {
+  }
+
+}
