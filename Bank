@@ -1,0 +1,23 @@
+package NaveenASStockMaintenance;
+
+import Integer;
+import java.util.Vector;
+import String;
+
+public class Bank {
+
+  private Integer Detail;
+
+  private Integer Price;
+
+  public String CustomerDetail;
+
+    public Vector  myStock Buyer;
+
+  public void ProceedPayment() {
+  }
+
+  public void DenyPayment() {
+  }
+
+}
