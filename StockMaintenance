@@ -1,0 +1,17 @@
+package NaveenASStockMaintenance;
+
+import java.util.Vector;
+import String;
+
+public class Stock Maintenance {
+
+  public String Stockdetail;
+
+  public String Customerdetail;
+
+    public Vector  myStock Market;
+
+  public void Updatestatus() {
+  }
+
+}
