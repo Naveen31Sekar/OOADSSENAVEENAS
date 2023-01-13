@@ -1,0 +1,21 @@
+import Integer;
+import java.util.Vector;
+import Bool;
+
+public class Stock Market {
+
+  public Integer Stockinformation;
+
+  public Bool Stocksoldino;
+
+    public Vector  myStock Maintenance;
+    public Vector  myStock;
+    public Vector  myStock Buyer;
+
+  public void UpdateStock() {
+  }
+
+  public void Exchange() {
+  }
+
+}
