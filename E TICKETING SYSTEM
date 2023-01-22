@@ -1,0 +1,22 @@
+public class centralmanagement system {
+
+  public string trainname;
+
+  public string passengername;
+
+  public Integer newAttr;
+
+    
+  public void reservation() {
+  }
+
+  public void cancellation() {
+  }
+
+  public void login() {
+  }
+
+  public void centralmanagementsystem() {
+  }
+
+}
