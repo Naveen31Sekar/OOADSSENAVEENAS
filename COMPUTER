@@ -1,0 +1,93 @@
+
+
+/**
+ * Class computer
+ */
+public class computer {
+
+  //
+  // Fields
+  //
+
+  private void student_reccord;
+  private void book_list;
+  
+  //
+  // Constructors
+  //
+  public computer () { };
+  
+  //
+  // Methods
+  //
+
+
+  //
+  // Accessor methods
+  //
+
+  /**
+   * Set the value of student_reccord
+   * @param newVar the new value of student_reccord
+   */
+  private void setStudent_reccord (void newVar) {
+    student_reccord = newVar;
+  }
+
+  /**
+   * Get the value of student_reccord
+   * @return the value of student_reccord
+   */
+  private void getStudent_reccord () {
+    return student_reccord;
+  }
+
+  /**
+   * Set the value of book_list
+   * @param newVar the new value of book_list
+   */
+  private void setBook_list (void newVar) {
+    book_list = newVar;
+  }
+
+  /**
+   * Get the value of book_list
+   * @return the value of book_list
+   */
+  private void getBook_list () {
+    return book_list;
+  }
+
+  //
+  // Other methods
+  //
+
+  /**
+   */
+  public void maintain_student_record()
+  {
+  }
+
+
+  /**
+   */
+  public void enter_issue()
+  {
+  }
+
+
+  /**
+   */
+  public void order_new_author()
+  {
+  }
+
+
+  /**
+   */
+  public void check_availablity()
+  {
+  }
+
+
+}
